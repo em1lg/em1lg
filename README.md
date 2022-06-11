@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! </h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>!👋 </h2>
 
 
 [![Linkedin: em1lg](https://img.shields.io/badge/-em1lg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/em1lg/)](https://www.linkedin.com/in/em1lg/)
